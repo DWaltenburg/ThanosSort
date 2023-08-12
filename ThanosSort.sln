@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThanosSort", "ThanosSort\ThanosSort.csproj", "{EF290B13-7D9F-47EF-B07D-0EE0E88EDFAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF290B13-7D9F-47EF-B07D-0EE0E88EDFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF290B13-7D9F-47EF-B07D-0EE0E88EDFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF290B13-7D9F-47EF-B07D-0EE0E88EDFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF290B13-7D9F-47EF-B07D-0EE0E88EDFAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {753BF80E-70FA-4DAB-B455-F5D47285EDFE}
+	EndGlobalSection
+EndGlobal
